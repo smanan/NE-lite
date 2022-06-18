@@ -1,0 +1,792 @@
+@media screen and (min-width:768px) {
+
+  .paymentbtn::after {
+    font-size: 11px !important;
+  }
+
+
+
+  .paymentbtn2::after {
+    font-size: 7px;
+  }
+
+  .buttonbox5 .flex-container {
+    flex-direction: column;
+  }
+
+  .buttonbox5 p {
+    word-wrap: break-word;
+  }
+
+  .buttonbox5 .flex-container>div {
+    width: 100%;
+  }
+
+  .buttonbox5>.flex-container>.flexchildclass {
+    width: 100%;
+  }
+
+  .buttonbox5>.flex-container>.flexchildclass1 {
+    width: 100%;
+  }
+
+  .connectdiv .flex-container {
+    flex-direction: row;
+  }
+
+}
+
+@media screen and (min-width:1024px) {
+  .paymentbtn::after {
+    font-size: 16px !important;
+  }
+
+  .paymentbtn2::after {
+    font-size: 14px;
+  }
+
+  .buttonbox5 .flex-container {
+    flex-direction: row;
+  }
+
+  .buttonbox5 .flex-container>div {
+    width: auto;
+  }
+
+}
+
+@media screen and (min-width: 450px) and (max-width:540px) {
+  .nelitetext {
+    font-size: 11px;
+    padding: 0px 4px;
+    top: 333%;
+  }
+
+  .nelitetexthd {
+    font-size: 11px;
+    padding: 0px 4px;
+    top: 51%;
+  }
+
+  .mainline {
+    position: absolute;
+    top: 28px;
+    left: 0px;
+  }
+
+  .mainlinehd {
+    position: absolute;
+    top: 28px;
+    left: 0px;
+  }
+
+  .pos-center p {
+    font-size: 10px !important;
+    margin-top: -19px;
+  }
+
+}
+
+@media screen and (max-width:540px) {
+  .thenever {
+    font-size: 12px;
+  }
+
+  .headertextbox {
+    left: -128px;
+    text-align: center;
+    top: 106px;
+  }
+
+  .topheadinpera {
+    font-size: 24px;
+  }
+
+  .playheading {
+    font-size: 25px
+  }
+
+  .abouttext {
+    width: 100%;
+    position: absolute;
+    top: 0px;
+  }
+
+  .aboutfont {
+    font-size: 18px;
+  }
+
+  .aboutfont1 {
+    font-size: 12px;
+  }
+
+  .aboutbox img {
+    min-height: 178px;
+  }
+
+  .abouttext div {
+    margin-top: 0px !important;
+  }
+
+  .headbuton {
+    background-color: #fcb032;
+    padding: 2px 8px !important;
+    border: none !important;
+    border-radius: 8px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif !important;
+    border: 2px solid #fcb032 !important;
+  }
+
+  .neliteread {
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+
+  .nelitetext133 {
+    position: relative;
+    width: 100%;
+    /* top: 221px; */
+    top: 21%;
+    text-align: center;
+    background-color: black;
+  }
+
+  .location {
+    margin-left: -2px !important;
+    text-align: center;
+  }
+
+  .navbar-collapse {
+    background-color: black;
+    /* z-index: 32133; */
+    position: absolute;
+    width: 100%;
+    top: 72px;
+    z-index: 100001;
+    display: flex;
+    flex-direction: row;
+    height: 178px;
+  }
+
+  .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 15px !important;
+    padding-top: 5px !important;
+  }
+
+  .navbar-nav {
+    margin-left: 10px !important;
+  }
+.container{
+  width: auto !important;
+}
+  .linkhoverwhite .nav-link:hover::after {
+    content: "";
+    display: block;
+    /* margin: 0px auto; */
+    width: 30px;
+    /* top: 18px; */
+    /* float: left; */
+    padding-top: 0px;
+    border-bottom: 4px solid #fcb032;
+    margin-left: 5px;
+  }
+  .activenav::after {
+    content: "";
+    display: block;
+    /* margin: 0px auto; */
+    width: 30px;
+    /* top: 18px; */
+    /* float: left; */
+    padding-top: 0px;
+    border-bottom: 4px solid #fcb032;
+    margin-left: 5px;
+}
+  .animated {
+    width: 60% !important;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  .backremove {
+    display: none;
+  }
+
+  .aboutfontnelite {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+
+  }
+
+  .aboutfontnelite::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 10%;
+    padding-top: 0px;
+
+    border-bottom: 4px solid #fcb032;
+  }
+
+  .aboutfont2 {
+    font-size: 12px;
+    text-align: center;
+
+  }
+
+  .headertextbox1 img {
+    height: 170px;
+    float: right;
+  }
+
+  .bannerbox {
+
+    height: auto;overflow: visible;
+
+  }
+
+
+  .mainlinehd {
+    top: -28px;
+  }
+
+  .modaldiv {
+    top: 498px !important;
+  }
+
+  .sideborder {
+    border-left: transparent !important;
+  }
+
+  .paymentbtn::after {
+    font-size: 24px !important;
+    top: 12%;
+  }
+
+  .paymentbtn2::after {
+    font-size: 24px !important;
+  }
+
+  .easylose::after {
+    top: 203px;
+    left: 199px;
+  }
+
+}
+
+@media screen and (max-width:280px) {
+  .thenever {
+    font-size: 8px;
+  }
+
+  input[type="search"] {
+    width: 79%;
+  }
+
+  .nelitetext {
+    top: 417%;
+    right: 78px;
+    font-size: 13px !important;
+  }
+
+  .linediv {
+    transform: translate(-2px, 4px);
+    width: 35%;
+  }
+
+  .hintbtb {
+    margin-left: 8px !important;
+  }
+
+  .keybordbox {
+    width: 100%;
+  }
+
+  .circal {
+    margin-top: 39px;
+  }
+
+
+
+  .modaldiv {
+    top: 609px !important;
+  }
+
+  .nelitetext1 {
+    font-size: 7px;
+    left: 49%;
+  }
+
+  .nelitetexthistory {
+    font-size: 5px !important;
+  }
+
+  .mainplaybutton {
+    margin-top: -26px;
+  }
+
+  .nelitetexthd {
+    font-size: 2px;
+  }
+
+  .paymentbtn::after {
+    font-size: 13px !important;
+    top: 10%;
+  }
+
+  .paymentbtn2::after {
+    font-size: 13px !important;
+  }
+
+}
+
+
+@media screen and (min-width: 360px) and (max-width:414px) {
+  .thenever {
+    font-size: 12px;
+  }
+
+  .nelitetext {
+    font-size: 6px;
+    padding: 0px 4px;
+    top: 311%;
+  }
+
+  .sideborder {
+    border-left: transparent !important;
+  }
+
+  .paymentbtn::after {
+    top: 1%;
+  }
+
+  .nelitetext {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 768px)and(max-width:820px) {
+
+
+
+  .paypalbox2 {
+    margin-top: 11% !important;
+  }
+
+  .nelitetext {
+    font-size: 14px;
+
+  }
+
+  .keyfirstrow {
+    width: 62% !important;
+  }
+
+  .keysecondbox {
+    width: 53% !important;
+  }
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 850px) {
+
+  .point {
+    text-align: center;
+  }
+
+  .flexchildclass1 {
+    margin-bottom: 10px !important;
+  }
+
+  .search-form {
+    width: 100%;
+    margin: auto;
+    margin-top: 25px;
+  }
+
+  .esaypra,
+  .youtubevideo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .youtubevideo a {
+    text-align: center;
+  }
+
+  .easyboxflex {
+    width: 100% !important;
+  }
+
+  .easyboxflex {
+    flex-direction: column;
+  }
+
+  #keyword {
+    margin-top: 102px;
+  }
+
+  .circal {
+    margin-top: 42px;
+  }
+
+  .keybordbox {
+    width: 100%;
+  }
+
+  .textcenter {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .marginnone {
+    margin-right: inherit !important;
+  }
+
+  .paypalbox2 {
+    margin-top: 21%;
+  }
+
+  .nelitetexthistory {
+    top: 248%;
+  }
+
+  .nelitetext1 {
+    font-size: 8px;
+    top: 53px;
+  }
+
+  .dict {
+
+    margin-top: 50px !important;
+
+  }
+
+  .mainbox {
+    margin-top: 3px;
+  }
+
+
+
+  .mainbutton {
+
+    width: 100%;
+
+  }
+
+  .pos-center {
+    left: 3%;
+    top: 120px;
+  }
+
+  .banner-caption {
+    font-size: 12px;
+  }
+
+  .mainboxdiv {
+    margin-top: 10px;
+  }
+
+  .modaldiv,
+  .formboxs1 {
+    width: 100%;
+  }
+
+  .connectdiv::after {
+    font-size: 15px;
+  }
+
+  .centered button {
+    font-size: 18px !important;
+  }
+
+  .formboxs {
+    padding: 24px;
+  }
+
+  .linedivhistory {
+    width: 80%;
+  }
+
+  .nelitetexthistory {
+    font-size: 8px;
+  }
+
+
+
+  .modaldiv {
+    width: 90% !important;
+  }
+
+  .keyfirstrow,
+  .keysecondbox,
+  .keythirdbox,
+  .hintbtbmain {
+    margin-bottom: 15px;
+  }
+
+  /* #keyword{
+    padding: 10px 10px;
+  } */
+
+  .operator,
+  .number,
+  .empty {
+    width: 22px;
+    height: 22px;
+    font-size: 14px;
+
+  }
+
+  .mainroundbtn {
+    font-size: 16px;
+  }
+
+  /* .keyfirstrow{
+    width: 100%; }
+
+    .keysecondbox{
+      width: 100%; } */
+
+
+  .keythirdbox {
+    width: 100%;
+  }
+
+  .hintbtb {
+    width: 45%;
+    margin-left: 13px;
+  }
+
+  .hintbtbmain {
+    width: 100%;
+    display: flex;
+  }
+
+  /* .esayprofilebox {
+    padding-top: 179px;
+} */
+
+  .esaybox {
+    height: 943px;
+  }
+
+  .formboxs {
+    width: 90%;
+  }
+
+  .logintext {
+    background-color: #ffff;
+    padding: 7px;
+    left: 29%;
+    bottom: 36%;
+  }
+
+  .formbox {
+    height: 1136px;
+  }
+
+
+  .textox {
+    margin-top: 8px;
+  }
+
+  .mrtop {
+    margin-bottom: 30px;
+  }
+
+
+  .operator,
+  .number,
+  .empty {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+
+}
+
+@media screen and (min-width: 200px) and (max-width: 450px) {
+
+  .butmargin {
+    margin-bottom: 20px !important;
+  }
+
+  /* .subheadingcopy{
+      overflow-x: hidden;
+      
+    } */
+  .nelitetexthd {
+    font-size: 2px;
+  }
+
+  /* .nelitetext{
+      font-size: 16px ;
+      padding: 0px 4px;
+      top: 451% ;
+    } */
+  .pos-center p {
+    font-size: 5px;
+    margin-top: -19px;
+  }
+
+  /* .pos-center p{
+        display: none;
+    } */
+  .subscribe1 {
+    width: 100%;
+  }
+
+  .subscribe {
+    width: 90%;
+    margin-bottom: 10px;
+
+  }
+
+
+
+
+
+}
+
+@media screen and (min-width: 700px) and (max-width: 1028px) {
+
+  .subheadingcopy {
+    overflow-x: hidden;
+    margin: 0px 5px -16px 5px;
+  }
+
+
+  .carddiv h3 {
+    font-size: 22px !important;
+  }
+
+  .keybordbox {
+    width: 100%;
+  }
+
+  .paypalbox2 {
+    margin-top: 10%;
+  }
+
+  .nelitetext1 {
+    font-size: 14px;
+  }
+
+  .nelitetexthistory {
+    font-size: 11px;
+    top: 262%;
+  }
+
+  .mainbutton {
+    width: 69%;
+
+  }
+
+  .pos-center p {
+    font-size: 16px;
+    margin-top: 59px;
+  }
+
+  .pos-center {
+    top: 93px;
+  }
+
+  .nelitetext {
+    font-size: 23px;
+  }
+
+  .nelitetexthd {
+    font-size: 23px;
+  }
+
+  .formboxs {
+    width: 90%;
+  }
+
+  .textox {
+    margin-top: 8px;
+  }
+
+  .connectdiv::after {
+    font-size: 9px;
+  }
+
+  .mainline {
+    position: absolute;
+    /* top: 23px; */
+  }
+
+  .mainlinehd {
+    position: absolute;
+    top: 23px;
+  }
+
+  .linediv {
+    width: 35%;
+  }
+
+}
+
+@media screen and (min-width: 400px)and(max-width:450px) {
+  .logintext {
+    bottom: 32%;
+  }
+}
+
+@media screen and (max-width:600px) {
+  /* .mainroundbtn::after {
+      left: 105px;
+      bottom: 102px;
+  } */
+
+  .mainwinner::after {
+    top: 195px;
+  }
+
+}
+
+@media screen and (min-width:1366px) {
+  .deshbox {
+    padding: 7px 10px;
+  }
+}
+
+@media screen and (min-width: 820px)and(max-width:1180px) {
+  .mainline {
+    position: absolute;
+    top: -26px;
+    left: 0px;
+  }
+
+  .mainlinehd {
+    position: absolute;
+    top: -26px;
+    left: 0px;
+  }
+
+  .nelitetext {
+    font-size: 14px !important;
+    padding: 0px 4px;
+    top: 452% !important;
+  }
+
+  .nelitetexthd {
+    font-size: 14px !important;
+    padding: 0px 4px;
+    top: 452% !important;
+  }
+
+  .modaldiv {
+    top: 324px;
+  }
+
+  .carddiv h3 {
+    font-size: 22px !important;
+  }
+
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  <html lang="en">
+   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="http://prod-pa-lb-2012906422.ap-south-1.elb.amazonaws.com:89/socket.io/socket.io.js" content="text/javascript"></script>
+    <script>
+        var socket = io.connect("http://prod-pa-lb-2012906422.ap-south-1.elb.amazonaws.com:89/socket.io/socket.io.js");
+        socket.emit('txt2Speech', 'Sent an event from the client!');
+    </script>
+    
+    <title>Chat App</title>
+   </head>
+   <body>
+   </body>
+  </html>
